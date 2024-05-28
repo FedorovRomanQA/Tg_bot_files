@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/FedorovRomanQATg_bot_files/main/static/menu.png)
+![image](https://raw.githubusercontent.com/FedorovRomanQA/Tg_bot_files/main/1.png)
 
 После выбора файла:
 
-![image](https://raw.githubusercontent.com/FedorovRomanQATg_bot_files/main/static/generate.png)
+![image](https://raw.githubusercontent.com/FedorovRomanQA/Tg_bot_files/main/2.png)
 
 ## 💻 Технологии
 
