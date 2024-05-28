@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/menu.png)
+![image](https://raw.githubusercontent.com/FedorovRomanQATg_bot_files/main/static/menu.png)
 
 После выбора файла:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/generate.png)
+![image](https://raw.githubusercontent.com/FedorovRomanQATg_bot_files/main/static/generate.png)
 
 ## 💻 Технологии
 
@@ -52,4 +52,4 @@ python3 main.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Федоров Роман ([@snape777](https://t.me/snape777))
